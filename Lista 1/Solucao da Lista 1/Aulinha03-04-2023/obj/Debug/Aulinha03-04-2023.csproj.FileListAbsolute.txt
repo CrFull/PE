@@ -1,0 +1,16 @@
+C:\Users\aluno\Desktop\Aulinha03-04-2023\Aulinha03-04-2023\bin\Debug\Aulinha03-04-2023.exe.config
+C:\Users\aluno\Desktop\Aulinha03-04-2023\Aulinha03-04-2023\bin\Debug\Aulinha03-04-2023.exe
+C:\Users\aluno\Desktop\Aulinha03-04-2023\Aulinha03-04-2023\bin\Debug\Aulinha03-04-2023.pdb
+C:\Users\aluno\Desktop\Aulinha03-04-2023\Aulinha03-04-2023\obj\Debug\Aulinha03-04-2023.csproj.AssemblyReference.cache
+C:\Users\aluno\Desktop\Aulinha03-04-2023\Aulinha03-04-2023\obj\Debug\Aulinha03-04-2023.csproj.SuggestedBindingRedirects.cache
+C:\Users\aluno\Desktop\Aulinha03-04-2023\Aulinha03-04-2023\obj\Debug\Aulinha03-04-2023.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Desktop\Aulinha03-04-2023\Aulinha03-04-2023\obj\Debug\Aulinha03-04-2023.exe
+C:\Users\aluno\Desktop\Aulinha03-04-2023\Aulinha03-04-2023\obj\Debug\Aulinha03-04-2023.pdb
+C:\Users\joaos\Desktop\Aulinha03-04-2023\Aulinha03-04-2023\bin\Debug\Aulinha03-04-2023.exe.config
+C:\Users\joaos\Desktop\Aulinha03-04-2023\Aulinha03-04-2023\bin\Debug\Aulinha03-04-2023.exe
+C:\Users\joaos\Desktop\Aulinha03-04-2023\Aulinha03-04-2023\bin\Debug\Aulinha03-04-2023.pdb
+C:\Users\joaos\Desktop\Aulinha03-04-2023\Aulinha03-04-2023\obj\Debug\Aulinha03-04-2023.csproj.AssemblyReference.cache
+C:\Users\joaos\Desktop\Aulinha03-04-2023\Aulinha03-04-2023\obj\Debug\Aulinha03-04-2023.csproj.SuggestedBindingRedirects.cache
+C:\Users\joaos\Desktop\Aulinha03-04-2023\Aulinha03-04-2023\obj\Debug\Aulinha03-04-2023.csproj.CoreCompileInputs.cache
+C:\Users\joaos\Desktop\Aulinha03-04-2023\Aulinha03-04-2023\obj\Debug\Aulinha03-04-2023.exe
+C:\Users\joaos\Desktop\Aulinha03-04-2023\Aulinha03-04-2023\obj\Debug\Aulinha03-04-2023.pdb
